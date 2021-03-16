@@ -101,6 +101,8 @@ function Search(props) {
 
             alert('Success!')
 
+            window.location.reload();
+
 
 
 
